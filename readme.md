@@ -14,7 +14,7 @@ Currently the application is being developed and tested specifically the Emirati
 ## App Media
 | Walkthrough | 
 | :---: | 
-| <img src="https://github.com/samanta-thsvsadia/Lahjatna/blob/main/Media/lahjatna%20demo.gif" width="280" alt="Speech Recognition Demo"> |
+| <img src="https://github.com/samanta-thsvsadia/Lahjatna/blob/main/Media/lahjatna%20demo.mp4" width="280" alt="Speech Recognition Demo"> |
 | *Real-time Speech-to-Text feedback* |
 
 ---
